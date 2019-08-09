@@ -11,7 +11,7 @@ URL: [The Next Web](https://thenextweb.com/)
 
 # Authors
 + Saintaze [@saintaze](https://github.com/saintaze/)
-+ Imhtapm [@imhta](https://github.com/imhta)
++ Imhta [@imhta](https://github.com/imhta)
 
 # Preview
 [Live Version](https://the-next-web-clone.imhta.now.sh)
